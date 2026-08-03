@@ -44,7 +44,7 @@ python3 -m http.server 8000
 
 ## Publish free on GitHub Pages
 
-1. Create a new GitHub repository (e.g. `asdg-website`).
+1. Create a new GitHub repository.
 2. Upload **all** files from this folder to the repo root (keep the folder
    structure — `css/`, `js/`, `assets/` must stay as-is).
 3. In the repo: **Settings → Pages → Build and deployment → Source: Deploy from a
