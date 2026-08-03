@@ -1,12 +1,8 @@
-# ASDG — Research Group Website
+# NDE Lab — Research Group Website
 
-A clean, professional, responsive website for the **Advanced Sensing & Diagnostics
-Group (ASDG)** of **Prof. Biju N**, Cochin University of Science and Technology
-(CUSAT). Structure and information architecture are modelled on the CNDE (IIT Madras)
-site; the visual identity uses a **red / white** academic scheme.
+This is the implementation for group website. Our group Non-Destructive Evaluation (NDE) Labe under guidance of **Prof. Biju N**, Cochin University of Science and Technology (CUSAT). Structure and information architecture are modelled here for our site; the visual identity uses a **red / white** academic scheme.
 
-All text is **lorem ipsum** and all images are **[Picsum](https://picsum.photos)**
-placeholders — swap them for real content before going live.
+Some content is in lorem epsum and lorem picsum for place holders.
 
 ---
 
